@@ -1,0 +1,12 @@
+C:\kitaprg\VS2017\com0mon\bin\Debug\com0mon.exe.config
+C:\kitaprg\VS2017\com0mon\bin\Debug\com0mon.exe
+C:\kitaprg\VS2017\com0mon\bin\Debug\com0mon.pdb
+C:\kitaprg\VS2017\com0mon\bin\Debug\com0mon.xml
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.vbprojResolveAssemblyReference.cache
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.Form1.resources
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.Resources.resources
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.vbproj.GenerateResource.Cache
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.vbproj.CoreCompileInputs.cache
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.exe
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.xml
+C:\kitaprg\VS2017\com0mon\obj\Debug\com0mon.pdb
